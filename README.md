@@ -14,6 +14,20 @@ or
 yarn add react-micro-list
 ```
 
+## Tests
+
+The project uses Jest/Enzyme for tests. To run tests:
+
+```bash
+npm test
+```
+
+or
+
+```bash
+yarn test
+```
+
 ## Usage
 
 Import the List Component into your project
